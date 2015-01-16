@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">PickImager</string>
+    
+    <string name="btn_pick_image">Pick Image</string>
+    
+    <string name="btn_pick_image_camera">Pick From Camera</string>
+    
+    <string name="btn_pick_image_Gallary">Pick Gallary</string>
+    
+    <string name="btn_pick_image_Gallary_mul">Pick multiple images Gallary</string>
+
+</resources>
